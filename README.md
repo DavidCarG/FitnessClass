@@ -23,5 +23,10 @@ To get started with the project, follow these simple steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/sports-club-attendance.git
+   git clone git@github.com:DavidCarG/FitnessClass.git
+
+2. Install the required Python packages (you can use pip or conda):
+
+   ```bash
+   pip install -r requirements.txt
 
